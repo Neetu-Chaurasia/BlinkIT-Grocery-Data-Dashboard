@@ -1,15 +1,16 @@
 # BlinkIT-Grocery-Data-Dashboard
-## This project analyzes grocery sales data to uncover insights into product performance and customer purchasing patterns. The interactive dashboard provides a clear overview of overall sales trends and helps identify key growth areas for the business.
 
-Key Features:
+#### This project analyzes grocery sales data to uncover insights into product performance and customer purchasing patterns. The interactive dashboard provides a clear overview of overall sales trends and helps identify key growth areas for the business.
 
-Built using Excel Pivot Tables, Charts, and Slicers for dynamic filtering and visualization.
+## Key Features:
 
-Tracked KPIs such as Total Revenue, Average Order Value, and Product-wise Contribution.
+#### Built using Excel Pivot Tables, Charts, and Slicers for dynamic filtering and visualization.
 
-Highlighted top-selling items and most active customer segments.
+#### Tracked KPIs such as Total Revenue, Average Order Value, and Product-wise Contribution.
 
-Designed a clean, user-friendly layout for quick business insights.
+#### Highlighted top-selling items and most active customer segments.
 
-Skills Used:
-Excel, Data Cleaning, Pivot Tables, Data Visualization, Dashboard Design, KPI Analysis
+#### Designed a clean, user-friendly layout for quick business insights.
+
+## Skills Used:
+#### Excel, Data Cleaning, Pivot Tables, Data Visualization, Dashboard Design, KPI Analysis
